@@ -1,2 +1,5 @@
 # useful-function
-storage for useful functions I made
+Storage for useful functions I made
+
+explain the manual of each function, please enjoy
+
